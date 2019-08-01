@@ -8,10 +8,10 @@
   "require": {
     "php": ">=7.1",
     "spryker-shop/file-manager-widget": "^1.1.0",
-    "spryker/file-manager": "^1.0.2",
+    "spryker/file-manager": "^1.1.0",
     "spryker/file-manager-data-import": "^1.0.0",
     "spryker/file-manager-gui": "^1.1.0",
-    "spryker/file-manager-storage": "^1.0.0"
+    "spryker/file-manager-storage": "^1.2.0"
   },
   "extra": {
     "branch-alias": {
