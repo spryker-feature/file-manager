@@ -1,21 +1,21 @@
 {
-  "name": "spryker-feature/file-manager",
-  "description": "File manager [feature]",
-  "type": "metapackage",
-  "license": "proprietary",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "require": {
-    "php": ">=7.3",
-    "spryker-shop/file-manager-widget": "^1.2.0",
-    "spryker/file-manager": "^1.1.0",
-    "spryker/file-manager-data-import": "^1.0.0",
-    "spryker/file-manager-gui": "^1.3.0",
-    "spryker/file-manager-storage": "^1.5.0"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "202107.x-dev"
+    "name": "spryker-feature/file-manager",
+    "description": "File Manager [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.3",
+        "spryker-shop/file-manager-widget": "^1.2.0",
+        "spryker/file-manager": "^1.2.0",
+        "spryker/file-manager-data-import": "^1.0.0",
+        "spryker/file-manager-gui": "^1.4.0",
+        "spryker/file-manager-storage": "^1.5.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202107.x-dev"
+        }
     }
-  }
 }
