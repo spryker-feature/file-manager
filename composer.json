@@ -7,11 +7,11 @@
     "prefer-stable": true,
     "require": {
         "php": ">=7.3",
-        "spryker-shop/file-manager-widget": "^1.2.0",
-        "spryker/file-manager": "^1.2.0",
-        "spryker/file-manager-data-import": "^1.0.0",
-        "spryker/file-manager-gui": "^1.4.0",
-        "spryker/file-manager-storage": "^1.5.0"
+        "spryker-shop/file-manager-widget": "^2.0.0",
+        "spryker/file-manager": "^2.0.0",
+        "spryker/file-manager-data-import": "^2.0.0",
+        "spryker/file-manager-gui": "^2.0.0",
+        "spryker/file-manager-storage": "^2.0.0"
     },
     "extra": {
         "branch-alias": {
