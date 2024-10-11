@@ -12,3 +12,4 @@ composer require spryker-feature/file-manager
 
 ## Optional modules
 - [FileManagerExtension ^1.0.0](https://github.com/spryker/file-manager-extension) (Extension)
+- [FileManagerGuiExtension ^1.0.0](https://github.com/spryker/file-manager-gui-extension) (Extension)
