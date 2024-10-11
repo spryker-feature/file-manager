@@ -9,3 +9,6 @@ Use this feature to host files required by your shop in Spryker
 ```
 composer require spryker-feature/file-manager
 ```
+
+## Optional modules
+- [FileManagerExtension ^1.0.0](https://github.com/spryker/file-manager-extension) (Extension)
