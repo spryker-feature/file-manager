@@ -8,7 +8,7 @@
     "require": {
         "php": ">=8.2",
         "spryker-shop/file-manager-widget": "^2.0.0",
-        "spryker/file-manager": "^2.5.0",
+        "spryker/file-manager": "^2.7.0",
         "spryker/file-manager-data-import": "^2.1.0",
         "spryker/file-manager-gui": "^2.8.0",
         "spryker/file-manager-storage": "^2.4.0"
