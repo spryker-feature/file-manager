@@ -10,12 +10,12 @@
         "spryker-shop/file-manager-widget": "^2.0.0",
         "spryker/file-manager": "^2.8.0",
         "spryker/file-manager-data-import": "^2.1.0",
-        "spryker/file-manager-gui": "^3.0.0",
-        "spryker/file-manager-storage": "^2.5.0"
+        "spryker/file-manager-gui": "^3.1.0",
+        "spryker/file-manager-storage": "^2.6.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202602.x-dev"
+            "dev-master": "202604.x-dev"
         }
     }
 }
